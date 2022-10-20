@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # Qliksense API v2
-# Author: Song Yi
 import sys
 import time
 import json
