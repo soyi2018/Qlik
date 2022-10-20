@@ -1,0 +1,6 @@
+Host MySparkCluster
+    HostName ec2-54-198-186-135.compute-1.amazonaws.com
+    User ubuntu
+    Port 22
+    IdentityFile ~/.ssh/SparkKey.pem
+	
